@@ -1,0 +1,17 @@
+.Modal {
+	width: 30vw;
+	min-height: 10vh;
+	background: #fff;
+	border-radius: 8px;
+	padding: 20px;
+}
+
+.Modal .Title {
+	text-align: center;
+	font-size: 1.3em;
+	font-weight: 600;
+}
+
+.Modal .Content.center {
+	text-align: center;
+}

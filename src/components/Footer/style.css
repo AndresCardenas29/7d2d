@@ -1,0 +1,17 @@
+section.footer {
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 60%;
+}
+
+section.footer > div > .buttoms {
+	background: red;
+	text-align: center;
+}
+
+section.footer > div > .copy {
+	text-align: center;
+	letter-spacing: 2px;
+}
