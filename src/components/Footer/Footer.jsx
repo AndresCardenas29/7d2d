@@ -5,7 +5,7 @@ export default function FooterPage() {
 			<div>
 				{/* <div className="buttoms"> bottoms </div> */}
 				<div className="copy">
-					&copy; 2023 NekDress. All Rights Reserved | Hecho por Andres C.
+					&copy; 2023 NekDress. All Rights Reserved | Hecho por Andres C y diseños por Lucy.
 				</div>
 			</div>
 		</section>

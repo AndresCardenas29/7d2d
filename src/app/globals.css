@@ -17,9 +17,10 @@
 }
 
 main {
-    background-image: url('../components/Home/bg4.webp');
+    background-image: url('../components/Home/Bg_Home_CP.webp');
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
     width: 100vw;
     height: calc(100vh);
 }

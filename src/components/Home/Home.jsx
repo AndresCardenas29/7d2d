@@ -5,7 +5,7 @@ export default function HeaderPage() {
 	return (
 		<div className="cont">
 			<div className="contHome">
-				<div>
+				{/* <div>
 					<h3>SERVIDOR</h3>
 				</div>
 				<div>
@@ -13,7 +13,7 @@ export default function HeaderPage() {
 				</div>
 				<div>
 					<h1>CEREBROS PODRIDOS</h1>
-				</div>
+				</div> */}
 				<div>
 					<button
 						onClick={() => {

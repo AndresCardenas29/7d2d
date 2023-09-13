@@ -13,7 +13,7 @@ export default function Home() {
 			<div
 				style={{
 					zIndex: 1,
-					background: "rgba(0,0,0,.3)",
+					background: "rgba(0,0,0,.2)",
 				}}
 			>
 				<Header />
@@ -21,16 +21,16 @@ export default function Home() {
 			<div
 				style={{
 					// backgroundColor: "red",
-					height: "70vh",
-					background: "rgba(0,0,0,.3)",
+					height: "78vh",
+					background: "rgba(0,0,0,.2)",
 				}}
 			>
-				<HomeInfo />
+				{/* <HomeInfo /> */}
 			</div>
 			<div
 				style={{
 					backgroundColor: "black",
-					height: "20vh",
+					height: "10vh",
 				}}
 			>
 				<Footer />
