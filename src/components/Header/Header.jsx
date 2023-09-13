@@ -1,5 +1,8 @@
 "use client";
 import "./style.css";
+
+const urlMods =
+	"https://www.dropbox.com/sh/75nd95t0azdo6hs/AACf5KUAGW3ZAL7XSwKTv4cVa?dl=0";
 export default function HeaderPage() {
 	return (
 		<section className="header flex flex-row">
@@ -56,15 +59,12 @@ export default function HeaderPage() {
 			<div className="basis-3/4">
 				<button
 					onClick={() => {
-						window.open(
-							"https://www.dropbox.com/scl/fi/txkcfd19tckp2bdq7vaoa/Mods.zip?rlkey=npv2vw782cpjh8wzoro4ch8e8&dl=0",
-							"_blank"
-						);
+						window.open(urlMods, "_blank");
 					}}
 				>
 					DESCARGAR LOS MODS
 				</button>
-				<br/>
+				<br />
 			</div>
 			<div className="basis-3/4">
 				<div className="btnMenu">
