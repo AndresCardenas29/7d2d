@@ -20,7 +20,7 @@ export default function HeaderPage() {
 			<div className="basis-3/4">
 				<button
 					onClick={() => {
-						window.open("steam://connect/7d2d.nekdress.online:25700", "_blank");
+						window.open("steam://connect/31.214.128.121:25700", "_blank");
 					}}
 				>
 					UNIRSE
